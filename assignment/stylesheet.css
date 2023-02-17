@@ -1,7 +1,6 @@
 header {
     background-color: darkmagenta;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgb(219, 240, 177);
+    color: rgb(245, 166, 247);
     text-align: center;
 }
 
@@ -12,7 +11,10 @@ main {
 
 body {
     background-image: url("record.png");
-    background-repeat: repeat-x;
+    background-repeat: repeat;
     margin: 0px;
+  }
 
+  .gill-sans {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
